@@ -5,7 +5,6 @@ This repository contains a simple Angular Counter application. The app is built 
 ---
 
 ## Features
-
 * Increment and decrement a counter
 * Reset the counter
 * Responsive UI
