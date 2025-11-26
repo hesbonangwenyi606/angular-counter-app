@@ -62,8 +62,6 @@ ng serve
 
 Visit `http://localhost:4200` in your browser.
 
----
-
 ## Build Angular App
 
 Before deploying with Docker, build the production version of the Angular app:
