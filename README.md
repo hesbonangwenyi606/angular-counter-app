@@ -77,11 +77,9 @@ The output will be generated in `dist/angular-counter-app`.
 ---
 
 ## Docker Setup
-
 ### Dockerfile Overview
 
 The project uses a **multi-stage Docker build**:
-
 1. Build Angular app using a Node.js image.
 2. Serve the production build using Nginx.
 
