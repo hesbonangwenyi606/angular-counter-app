@@ -126,9 +126,6 @@ ls /usr/share/nginx/html
 location / {
     try_files $uri $uri/ /index.html;
 }
-```
-
----
 
 ## Troubleshooting
 1. **Port conflicts**
