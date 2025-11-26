@@ -1,5 +1,27 @@
+.counter-controls {
+  margin: 20px auto;
+  text-align: center;
+}
+
 button {
   margin: 5px;
   padding: 10px 15px;
   font-size: 16px;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  border: 2px solid #3498db;
+  border-radius: 5px;
+  background-color: #fff;
+  color: #3498db;
 }
+
+button:hover {
+  background-color: #3498db;
+  color: #fff;
+  transform: scale(1.1);
+}
+
+button:active {
+  transform: scale(0.95);
+}
+
