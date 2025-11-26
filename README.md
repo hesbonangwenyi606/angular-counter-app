@@ -37,8 +37,6 @@ angular-counter-app/
 └── README.md
 ```
 
----
-
 ## Local Development
 
 1. Clone the repository:
