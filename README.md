@@ -26,8 +26,6 @@ Before you begin, ensure you have the following installed on your system:
 ---
 
 ## Project Structure
-
-```
 angular-counter-app/
 ├── dist/                   # Compiled Angular app (after build)
 ├── src/                    # Angular source code
