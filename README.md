@@ -1,2 +1,2 @@
 # angular-counter-app
-sstart wi
+sstart w
