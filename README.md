@@ -131,7 +131,6 @@ location / {
 ---
 
 ## Troubleshooting
-
 1. **Port conflicts**
    If port `80` or `8080` is already in use:
 
