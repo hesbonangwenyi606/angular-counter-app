@@ -74,8 +74,6 @@ ng build --configuration production
 
 The output will be generated in `dist/angular-counter-app`.
 
----
-
 ## Docker Setup
 ### Dockerfile Overview
 
