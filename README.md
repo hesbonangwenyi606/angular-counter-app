@@ -13,7 +13,6 @@ This repository contains a simple Angular Counter application. The app is built 
 * Supports Angular routing
 
 ## Prerequisites
-
 Before you begin, ensure you have the following installed on your system:
 
 * [Node.js](https://nodejs.org/) (v20 or higher)
