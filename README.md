@@ -1,2 +1,1 @@
 # angular-counter-app
-s
