@@ -150,8 +150,5 @@ location / {
    docker build --no-cache -t angular-counter-app .
    ```
 
----
-
 ## License
-
 This project is open-source and available under the MIT Licence
