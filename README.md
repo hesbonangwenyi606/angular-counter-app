@@ -1,8 +1,5 @@
 # Angular Counter App
-
 This repository contains a simple Angular Counter application. The app is built using **Angular** and served using **Nginx** inside a Docker container.
-
----
 
 ## Features
 * Increment and decrement a counter
