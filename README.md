@@ -1,2 +1,2 @@
 # angular-counter-app
-start this ama
+sstart with depencies
