@@ -92,10 +92,8 @@ docker build --no-cache -t angular-counter-app .
 ```
 
 ### Run Docker Container
-
 ```bash
 docker run -d -p 8080:80 angular-counter-app
-```
 
 * The app will be available at [http://localhost:8080](http://localhost:8080).
 * Use port `8080` to avoid conflicts with host Nginx.
