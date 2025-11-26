@@ -23,7 +23,6 @@ Before you begin, ensure you have the following installed on your system:
 * [Docker](https://www.docker.com/)
 * [npm](https://www.npmjs.com/)
 
----
 
 ## Project Structure
 angular-counter-app/
