@@ -118,7 +118,6 @@ ls /usr/share/nginx/html
 ---
 
 ## Nginx Configuration
-
 * The `nginx.conf` ensures Angular routing works properly.
 * All non-file routes fall back to `index.html`:
 
